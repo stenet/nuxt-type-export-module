@@ -21,7 +21,8 @@
     "dev:prepare": "nuxt-module-build --stub && nuxi prepare playground"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.0.0-rc.9"
+    "@nuxt/kit": "^3.0.0-rc.9",
+    "axios": "^0.27.2"
   },
   "devDependencies": {
     "@nuxt/module-builder": "latest",
